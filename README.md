@@ -9,7 +9,7 @@ I'm also a huge foodie with a passion for all meals that bring smiles to the won
 
 - 🌱 I’m currently learning React, Redux and Flutter.
 
-- 💬 Ask me about NodeJs, DevOps, Testing.
+- 💬 Ask me about Node.js, DevOps - Docker, Kubernetes.
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/gbolu_ "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/gboluwaga-adeyemi-b890a6ab/ "My LinkedIn")
