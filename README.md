@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Gbolu</B></h3>
+<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Gbolu</B></h3>
 
 <h3 align="center">I am a result-oriented intermediate Back-End Developer with experience building and designing fault-tolerant systems. I am an expert at problem-solving and technical writing.
 </h3>
